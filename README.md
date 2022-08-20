@@ -1,6 +1,9 @@
 # socketio-chat
 Basic chat application using socket.io
 
+## Demo
+[https://hl-socketio-chat.herokuapp.com/](https://hl-socketio-chat.herokuapp.com/)
+
 ## Task List
 - [x] Create initial codebase to be able to broadcast/emit messages typed in by users
 - [ ] Enable user nicknames and identify who messages come from
